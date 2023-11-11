@@ -1,0 +1,1 @@
+var weatherInfo = document.getElementById('weatherInfo')
